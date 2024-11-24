@@ -12,4 +12,6 @@ The results revealed that most models, except Logistic Regression, achieved a pe
 
 Despite the remarkable accuracy of the ensemble models, the risk of overfitting cannot be ignored. In contrast, Logistic Regression, with an accuracy of 98.18%, provides a balance between performance and interpretability, making it more reliable for practical application. Its simplicity and transparency further enhance its utility for communication with stakeholders.
 
-In conclusion, while the ensemble models demonstrated exceptional accuracy, Logistic Regression emerged as the most pragmatic choice. Its robust performance and interpretability ensure it remains a valuable tool for predicting loan outcomes, and supporting data-driven lending decisions. This project underscores the potential of machine learning in addressing real-world business challenges, highlighting the need for models that balance accuracy with practicality.
+In conclusion, while the ensemble models demonstrated exceptional accuracy, Logistic Regression emerged as the most pragmatic choice. Its robust performance and interpretability ensure it remains a valuable tool for predicting loan outcomes and supporting data-driven lending decisions. This project underscores the potential of machine learning in addressing real-world business challenges, highlighting the need for models that balance accuracy with practicality.
+
+Source of dataset: https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
